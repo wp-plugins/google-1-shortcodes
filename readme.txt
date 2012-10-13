@@ -14,6 +14,8 @@ Shortcodes for embedding Google +1 buttons.
 
 Shortcodes for embedding Google +1 buttons. Currently, the plugin supports embedding +1 buttons using the following shortcodes: [gplusone], [plusone], [google+1], [g+1], [+1].
 
+This plugin has been tested to work up to 3.4.2. Please [contact me](http://christophersu.org/contact/) if you experience any problems with this plugin or have any questions.
+
 == Installation ==
 
 1. Upload the php file to the `/wp-content/plugins/` directory
